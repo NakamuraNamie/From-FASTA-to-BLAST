@@ -1,1 +1,1 @@
-# From-FASTA-to-BLAST
+# From FASTA to BLAST
