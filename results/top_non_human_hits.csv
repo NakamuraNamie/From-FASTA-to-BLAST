@@ -1,0 +1,4 @@
+Gene,Accession,Description,Percent Identity,E_value
+BRCA1,Q9GKK8,sp|Q9GKK8.2| RecName: Full=Breast cancer type 1 susceptibility protein homolog; AltName: Full=RING-type E3 ubiquitin transferase BRCA1 [Pan troglodytes],98.44,0.0
+BRCA2,XP_016780623,ref|XP_016780623.4| breast cancer type 2 susceptibility protein isoform X1 [Pan troglodytes],99.18,0.0
+TP53,XP_063556659,ref|XP_063556659.1| cellular tumor antigen p53 isoform X1 [Gorilla gorilla gorilla],99.75,0.0
