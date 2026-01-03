@@ -13,12 +13,12 @@
 # Project Objectives
 ### The goals of this project are to:
     - Understand and validate the FASTA file format
-    * Programmatically read and analyze protein sequences using Biopython
-    * Run protein BLAST (BLASTP) and interpret its statistical outputs
-    * Parse BLASR XML results using Python
-    * Apply biologically informed filtering (excluding human and synthetic constructs)
-    * Automatically identify the closest non-human homolog for each gene
-    * Export results into analysis-ready tabular format (CSV)
+    - Programmatically read and analyze protein sequences using Biopython
+    - Run protein BLAST (BLASTP) and interpret its statistical outputs
+    - Parse BLASR XML results using Python
+    - Apply biologically informed filtering (excluding human and synthetic constructs)
+    - Automatically identify the closest non-human homolog for each gene
+    - Export results into analysis-ready tabular format (CSV)
 
 # Tools & Resources
 ### Programming & Libraries
@@ -36,3 +36,12 @@
   - BLAST XML
   - CSV
 
+# Repository Structure
+data/
+|- tp53.fasta
+|- brca1.fasta
+|- brca2.fasta
+
+results/
+|-blast_xml/
+|  |-tp53_blast.xml
