@@ -8,11 +8,11 @@
     1. TP53
     2. BRCA1
     3. BRCA2
-  These genes were chosen because of their clinical relevance in cancer biology and their strong evolutionary conservation across species.
+  These genes were selected due to their clinical relevance in cancer biology and their strong evolutionary conservation across species.
 
 # Project Objectives
-  The goals of this project are to:
-    * Understand and validate the FASTA file format
+### The goals of this project are to:
+    - Understand and validate the FASTA file format
     * Programmatically read and analyze protein sequences using Biopython
     * Run protein BLAST (BLASTP) and interpret its statistical outputs
     * Parse BLASR XML results using Python
